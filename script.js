@@ -14,4 +14,4 @@ function return_normal() {
   });
 }
     
-}
+
